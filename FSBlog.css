@@ -18,16 +18,16 @@ html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pr
 
 /*wrapper*/
 html{
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/bg_html.jpg') #CC9;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/bg_html.jpg') #CC9;
 }
 body{
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/bg_body.png') 50% 40px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/bg_body.png') 50% 40px no-repeat;
 	font-family:Palatino,'Palatino Linotype',Helvetica,Verdana,'LiHei Pro','新細明體',sans-serif;
 }
 #wrapper{
 	width:740px;
 	margin:30px auto;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/bg_wrapper.png') repeat-y scroll #FFF;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/bg_wrapper.png') repeat-y scroll #FFF;
 	box-shadow: 0 2px 15px #555;
 		/**/-moz-box-shadow: 0 2px 15px #555;
 		/**/-webkit-box-shadow: 0 2px 15px #555;
@@ -35,7 +35,7 @@ body{
 /*header*/
 #header h1 a{
 	display:block;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/banner_N-trans.png') no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/banner_N-trans.png') no-repeat;
 	line-height:20px;
 	padding:90px 40px 10px;
 	text-align:right;
@@ -112,7 +112,7 @@ body{
 	margin-left:190px;
 	border-left:1px solid silver;
 	min-height:850px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/bg-cloud.png') #FFFFF7;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/bg-cloud.png') #FFFFF7;
 }
 #innerwrapper{
 	padding:10px 20px 0;
@@ -136,7 +136,7 @@ h2.posttitle,
 h2.posttitle-page,
 .postcontent h2{
 	font:900 1.5em 'Palatino Linotype','標楷體';
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/h2_ul.png') repeat-x bottom;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/h2_ul.png') repeat-x bottom;
 	text-transform:capitalize;
 }
 h2 a,h2,h3,h4{
@@ -154,7 +154,7 @@ h4{font-size:1.1em;}
 .postmeta2{			/*dateTag*/
 	text-align:center;
 	color:#933;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/dayTag-trans.png') no-repeat right top;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/dayTag-trans.png') no-repeat right top;
 	padding:20px 30px 20px 5px;
 	width:50px;
 	position:relative;
@@ -195,11 +195,11 @@ h4{font-size:1.1em;}
 }
 .posttags,
 .posttags-single{
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/tag.gif') no-repeat left center;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/tag.gif') no-repeat left center;
 }
 .postcomments{
 	display:none;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/comment.gif') no-repeat left center;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/comment.gif') no-repeat left center;
 }
 #extrastuff{
 	display:none;
@@ -224,7 +224,7 @@ h4{font-size:1.1em;}
 	font-family:'Palatino Linotype','新細明體',sans-serif;
 }
 li.widget li{
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/bullet.gif")no-repeat 1% 50% transparent;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/bullet.gif")no-repeat 1% 50% transparent;
 	padding:2px 15px 0;
 }
 .widget_recent_entries ul{
@@ -267,7 +267,7 @@ li.widget li{
 }
 		/*About*/
 #text-2{
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2011/10/bg_info.gif") #FFFB94 no-repeat;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2011/10/bg_info.gif") #FFFB94 no-repeat;
 	padding:20px 20px 20px 110px;
 	margin:0 80px 0 0;
 	width:300px;
@@ -314,7 +314,7 @@ div[style="text-align:center"]{display:none;}
 	left:-15px;
 	top:100px;
 	line-height:45px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/searchBar_bg-trans.png') no-repeat right top;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/searchBar_bg-trans.png') no-repeat right top;
 	padding:5px 12px 3px 0;
 	min-width:50px;
 	opacity:.6;
@@ -329,7 +329,7 @@ div[style="text-align:center"]{display:none;}
 	border-radius:8px;
 	padding:2px 10px 2px 15px;
 	margin-right:6px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/inputbackgr.gif') no-repeat left top #FFF;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/inputbackgr.gif') no-repeat left top #FFF;
 }
 #searchform .submitbutton{
 	position:relative;
@@ -339,7 +339,7 @@ div[style="text-align:center"]{display:none;}
 	text-indent:-9999px;
 	width:35px;
 	height:35px;
-	background: url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon_searchglass-trans.png') no-repeat left top;
+	background: url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon_searchglass-trans.png') no-repeat left top;
 }
 #searchform .submitbutton:hover{
 	background-position:left bottom;
@@ -354,7 +354,7 @@ div[style="text-align:center"]{display:none;}
 	text-indent:-9999px;
 	width:50px;
 	height:50px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/rss_icon-trans.png') no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/rss_icon-trans.png') no-repeat;
 	opacity:.5;
 }
 #rssboxo a:hover{
@@ -371,7 +371,7 @@ div[style="text-align:center"]{display:none;}
 	border-top:2px dotted #CCC;
 }
 .comment > div{
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2010/07/comment_bghead.gif") left bottom no-repeat #FFE;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/07/comment_bghead.gif") left bottom no-repeat #FFE;
 }
 .gravatar img{
 	width:40px;
@@ -387,7 +387,7 @@ div[style="text-align:center"]{display:none;}
 	font-size:.7em;
 }
 .commentbody{
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/comment_bg.png") no-repeat 30px 10px;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/comment_bg.png") no-repeat 30px 10px;
 }
 .commentbody p{
 	padding:5px 0 5px 30px;
@@ -466,7 +466,7 @@ div[style="text-align:center"]{display:none;}
 }
 .classTime:hover{
 	cursor:pointer;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/dropDown.png') no-repeat 85% 50%;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/dropDown.png') no-repeat 85% 50%;
 }
 .seminar_list .classTime a{
 	padding:0 10px;
@@ -614,7 +614,7 @@ blockquote{
 	opacity:.8;
 	padding: 10px 35px 5px;
 	margin: 3px 30px;
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/l-quotes.gif") top left no-repeat transparent;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/l-quotes.gif") top left no-repeat transparent;
 	border-radius: 10px;
 	border:5px dashed silver;
 	word-break:break-all;
@@ -623,7 +623,7 @@ blockquote:after{
 	content:"　";
 	width:35px;
 	color:transparent;
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/r-quotes.gif") bottom right no-repeat transparent;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/r-quotes.gif") bottom right no-repeat transparent;
 	float:right;
 	margin-right:-30px;
 }
@@ -655,7 +655,7 @@ hr{
 /*icon*/
 #maincol a[href^="http"]{
 	padding-right:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') right -220px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') right -220px no-repeat;
 }
 #maincol a[href*="freshman-seminar"]{
 	padding-right:0;
@@ -663,27 +663,27 @@ hr{
 }
 #maincol a[href$=".pdf"]{
 	padding-left:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') 0 -95px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') 0 -95px no-repeat;
 }
 #maincol a[href$=".doc"]{
 	padding-left:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') 0 -48px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') 0 -48px no-repeat;
 }
 #maincol a[href$=".ppt"]{
 	padding-left:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') 0 -121px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') 0 -121px no-repeat;
 }
 #maincol a[href$=".xls"]{
 	padding-left:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') 0 -173px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') 0 -173px no-repeat;
 }
 #maincol a[href$=".zip"]{
 	padding-left:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') 0 -199px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') 0 -199px no-repeat;
 }
 #maincol a[href^="mailto"]{
 	padding-left:20px;
-	background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/icon.png') 0 -70px no-repeat;
+	background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/icon.png') 0 -70px no-repeat;
 }
 /*2011-01-26 renew*/
 #dropmenu ul{width:300px;}
@@ -696,7 +696,7 @@ hr{
 	position: absolute;
 	top: 220px;
 	width: 50px;
-	background:url("http://freshman-seminar.blog.ntu.edu.tw/files/2011/01/share_icon-trans.png") no-repeat 0px 0;
+	background:url("http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2011/01/share_icon-trans.png") no-repeat 0px 0;
 	opacity:.5;
 }
 .addtoany_share_save_container:hover{
