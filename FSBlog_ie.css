@@ -1,9 +1,9 @@
 @charset 'utf-8';
 /*----ie6 opacity img hack----*/
-* html body{background:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/bg_body_ie.gif') 50% 10% no-repeat;}
+* html body{background:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/bg_body_ie.gif') 50% 10% no-repeat;}
 * html div#wrapper{background-position:0 -12px;border:2px dotted silver;}
-* html #header h1 a{background-image:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/06/banner_N01_ie.jpg');}
-* html h2.posttitle{background-image:url('http://freshman-seminar.blog.ntu.edu.tw/files/2010/09/h2_ul_ie.gif');}
+* html #header h1 a{background-image:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/06/banner_N01_ie.jpg');}
+* html h2.posttitle{background-image:url('http://freshman-seminar.blog.ntu.edu.tw/wp-content/uploads/sites/1836/files/2010/09/h2_ul_ie.gif');}
 * html .postmeta2{background:#FFE;border:1px double silver;border-width:3px 3px 3px 0;left:109px;}
 * html #searchboxo,* html #searchform .submitbutton{position:static;background-image:none;font-size:1em;width:auto;}
 * html #searchbox{border:1px solid gray;margin:0;}
