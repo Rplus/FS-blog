@@ -6,9 +6,9 @@ $(document).ready(function() {
     //subMenu
     dropmenu.find('ul').hide();
     dropmenu.find('li:has(ul)').hover(function() {
-        $(this).children('ul').show(300);
+        $(this).children('ul').slideDown(300);
     }, function() {
-        $(this).children('ul').hide(100);
+        $(this).children('ul').slideUp(100);
     });
 
     //for keyborad user
