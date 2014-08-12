@@ -325,6 +325,7 @@ div[style="text-align:center"]{display:none;}
 #searchbox{
 	display:none;
 	border:none;
+	max-width: 200px;
 	background-color:#FFF;
 	border-radius:8px;
 	padding:2px 10px 2px 15px;
