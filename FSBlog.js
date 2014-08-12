@@ -1,18 +1,20 @@
 $(document).ready(function() {
     $('#respond').hide();
 
+    var dropmenu = $('#dropmenu');
+
     //subMenu
-    $('#dropmenu ul').hide();
-    $('#dropmenu li:has(ul)').hover(function() {
+    dropmenu.find('ul').hide();
+    dropmenu.find('li:has(ul)').hover(function() {
         $(this).children('ul').show(300);
     }, function() {
         $(this).children('ul').hide(100);
     });
 
     //add subMenu symbol
-    $('#dropmenu li:has(ul)>a').addClass('subMenu').append(' ›');
-    $('#dropmenu ul a').prepend('╰►');
-    $('#dropmenu>li:first').hide();
+    dropmenu.find('li:has(ul) > a').addClass('subMenu').append(' ›');
+    dropmenu.find('ul a').prepend('╰►');
+    dropmenu.find('> li:first').hide();
 
     //seminar List
     var seminarListHide = $('.classTime').parent('ul').children('li').not($('.classTime'));
@@ -27,7 +29,7 @@ $(document).ready(function() {
     });
 
     //for keyborad user
-    $('#dropmenu li:has(ul)>a').focus(function() {
+    dropmenu.find('li:has(ul)>a').focus(function() {
         $(this).next('ul').slideToggle(100);
     });
 });
