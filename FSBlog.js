@@ -11,6 +11,11 @@ $(document).ready(function() {
         $(this).children('ul').hide(100);
     });
 
+    //for keyborad user
+    dropmenu.find('li:has(ul)>a').focus(function() {
+        $(this).next('ul').slideToggle(100);
+    });
+
     //add subMenu symbol
     dropmenu.find('li:has(ul) > a').addClass('subMenu').append(' ›');
     dropmenu.find('ul a').prepend('╰►');
@@ -26,10 +31,5 @@ $(document).ready(function() {
         seminarListHide.hide();
     }).end().children('.openAll').click(function() {
         seminarListHide.show();
-    });
-
-    //for keyborad user
-    dropmenu.find('li:has(ul)>a').focus(function() {
-        $(this).next('ul').slideToggle(100);
     });
 });
