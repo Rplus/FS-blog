@@ -32,4 +32,16 @@ $(document).ready(function() {
     }).end().children('.openAll').click(function() {
         seminarListHide.show();
     });
+
+    // latest news' link
+    (function () {
+        var now = new Date();
+        var _year = now.getFullYear();
+
+        if (now.getMonth() < 7) { // < August
+            _year -= 1
+        }
+
+        $('.page-item-217').children('a').attr('href', location.origin + '/' + _year);
+    })();
 });
