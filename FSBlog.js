@@ -13,7 +13,9 @@ $(document).ready(function() {
 
     //for keyborad user
     dropmenu.find('li:has(ul)>a').focus(function() {
-        $(this).next('ul').slideToggle(100);
+        $(this).next('ul').slideDown(100);
+    }).blur(function() {
+        $(this).next('ul').slideUp(100);
     });
 
     //add subMenu symbol
