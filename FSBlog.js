@@ -1,3 +1,4 @@
+(function ($) {
 $(document).ready(function() {
     $('#respond').hide();
 
@@ -47,3 +48,4 @@ $(document).ready(function() {
         $('.page-item-217').children('a').attr('href', location.origin + '/' + _year);
     })();
 });
+})(jQuery);
